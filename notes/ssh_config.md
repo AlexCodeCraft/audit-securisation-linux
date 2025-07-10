@@ -16,6 +16,7 @@
 /etc/ssh/sshd_config
 
 - Ligne modifiée :
+ ```bash
 PermitRootLogin no
 
 
